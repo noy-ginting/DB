@@ -1,1 +1,1 @@
-test SP
+select * from outlet;
